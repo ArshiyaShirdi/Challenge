@@ -7,4 +7,4 @@
 
 2. TTI-SQL.pdf
 
-  This is a file that has solution for SQL Questions in the challenge.
+  This is a file that has solutions for SQL Questions in the challenge.
